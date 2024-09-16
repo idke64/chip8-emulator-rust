@@ -1,0 +1,11 @@
+C:\Users\delic\Programming\chip8-emulator\target\debug\deps\liblibc-66115d4ced826863.rmeta: C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs
+
+C:\Users\delic\Programming\chip8-emulator\target\debug\deps\liblibc-66115d4ced826863.rlib: C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs
+
+C:\Users\delic\Programming\chip8-emulator\target\debug\deps\libc-66115d4ced826863.d: C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs
+
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src/lib.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\macros.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\fixed_width_ints.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\mod.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\libc-0.2.158\src\windows\msvc\mod.rs:

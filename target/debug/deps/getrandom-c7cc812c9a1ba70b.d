@@ -1,0 +1,11 @@
+C:\Users\delic\Programming\chip8-emulator\target\debug\deps\libgetrandom-c7cc812c9a1ba70b.rmeta: C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\delic\Programming\chip8-emulator\target\debug\deps\libgetrandom-c7cc812c9a1ba70b.rlib: C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\delic\Programming\chip8-emulator\target\debug\deps\getrandom-c7cc812c9a1ba70b.d: C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs
+
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src/lib.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\util.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\error_impls.rs:
+C:\Users\delic\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.15\src\windows.rs:

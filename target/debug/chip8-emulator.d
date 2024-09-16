@@ -1,0 +1,1 @@
+C:\Users\delic\Programming\chip8-emulator\target\debug\chip8-emulator.exe: C:\Users\delic\Programming\chip8-emulator\src\cpu.rs C:\Users\delic\Programming\chip8-emulator\src\main.rs C:\Users\delic\Programming\chip8-emulator\src\opcodes.rs
